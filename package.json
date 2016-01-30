@@ -1,0 +1,26 @@
+{
+  "name": "ppa-purge-missing-repo-fix",
+  "description": "Ever did a ppa-purge to discover that you've lost a lot of important packages? This will be of help to you.",
+  "version": "1.0.0",
+  "dependencies": {
+    "line-by-line": "",
+    "yargs": ""
+  },
+  "keywords": [
+    "line-by-line",
+    "ubuntu",
+    "ppa-purge",
+    "fix dependencies"
+  ],
+  "homepage": "https://github.com/SuhairZain/ppa-purge-missing-repo-fix",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SuhairZain/ppa-purge-missing-repo-fix.git"
+  },
+  "license": "MIT",
+  "readme": "README.md",
+  "author": {
+    "name": "Suhair Zain",
+    "email": "sz@valmeeki.com"
+  }
+}
